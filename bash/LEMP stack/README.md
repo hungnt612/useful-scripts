@@ -1,0 +1,3 @@
+This script will install Nginx, MySQL, and PHP, and configure them for use as a LEMP stack. It will also set up the necessary firewall rules and enable the services to start on boot.
+
+Note that this script assumes that you are using PHP version 7.4, which is the current version at the time of writing. If you are using a different version of PHP, you will need to modify the script accordingly. Also, this script assumes that you are using a Ubuntu/Debian based system. If you are using a different distribution, you may need to modify the package installation commands to match your system's package manager.
